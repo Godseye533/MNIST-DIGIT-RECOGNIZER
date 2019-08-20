@@ -1,4 +1,4 @@
-THE DEEP LEARNING AND IMAGE PROCESSING TECHNIQUE ARE APPLIED ON MNIST DATASET THAT IS AVAILABLE ON KERAS AS WELL AS KAGGLE DATASET APPLYING A SELF BUILDING CNN MODEL
+# MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike. Goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. 
 
 1.Mounting Drive
  
@@ -7,17 +7,31 @@ THE DEEP LEARNING AND IMAGE PROCESSING TECHNIQUE ARE APPLIED ON MNIST DATASET TH
 3.Re-shaping Train and Test data
 
 4.Visualizing data
-Pre-processing using Image Data Generator
-Creating a CNN Model
-Compling the created model
-Checking the accuracy
-Saving the trained model, along with weights
-Loading the saved model
-Loading Kaggle dataset from drive
-Reshaping train & test data
-Visualzing data
-Preprocessing data using Image Data Generator
-Checking accuracy
-Plotting Train & Test Accuracy
-Saving the final model
-Creating File for Kaggle Submission
+
+5.Pre-processing using Image Data Generator
+
+6.Creating a CNN Model
+
+7.Compling the created model
+
+8.Checking the accuracy
+
+9.Saving the trained model, along with weights
+
+10.Loading the saved model
+
+11.Loading Kaggle dataset from drive
+
+12.Reshaping train & test data
+
+13.Visualzing data
+
+14.Preprocessing data using Image Data Generator
+
+15.Checking accuracy
+
+16.Plotting Train & Test Accuracy
+
+17.Saving the final model
+
+18.Creating File for Kaggle Submission
